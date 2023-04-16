@@ -1,0 +1,422 @@
+---------------------------------------------------------------------------------------------------------------------
+
+create database VeriTabaniProje
+
+---------------------------------------------------------------------------------------------------------------------
+
+Create table Personeller(
+personelId int primary key,
+tcNo text,
+ad Varchar(20),
+soyad Varchar(20),
+telNo text,
+pozisyon int,
+maas int,
+dogumtarihi date
+)
+
+------------------------------------------------------------------------------------------------------------------
+
+Create table Akaryakitlar(
+akaryakitTur varchar(10),
+litreFiyati decimal(5,2),
+akaryakitId int PRIMARY KEY
+)
+
+-------------------------------------------------------------------------------------------------------------------
+
+Create table Tanklar(
+tankId int primary key,
+tankNo int,
+tanktakiUrun int,
+gelisFiyati decimal(5,2),
+tankHacim int
+)
+
+------------------------------------------------------------------------------------------------------------------
+
+Create table Musteriler(
+tcNo text,
+ad Varchar(20),
+soyad Varchar(20),
+plaka text primary key,
+telNo text,
+pozisyon int
+)
+
+-------------------------------------------------------------------------------------------------------------------
+
+Create table PozisyonMusteri(
+pozisyonTipi varchar(20),
+pozisyonId int primary key,
+indirimyuzdesi int
+)
+
+-------------------------------------------------------------------------------------------------------------------
+
+Create table PozisyonPersonel(
+pozisyonTipi varchar(20),
+pozisyonId int primary key,
+zamyuzdesi int
+)
+
+---------------------------------------------------------------------------------------------------------------------
+
+Create table Pompalar(
+pompaadi text,
+pompaId int primary key
+)
+
+---------------------------------------------------------------------------------------------------------------------
+
+Create table SatilanAkaryakit(
+satisYapan int,
+pompaId int ,
+plaka text,
+akaryakitTuru int,
+satilanLitre decimal(9,4),
+toplamTutar decimal(7,2),
+indirim decimal(6,2),
+tarih date
+)
+
+-----------------------------------------------------------------------------------------------------------------------
+
+Create table Kullanicilar(
+kullaniciId int,
+kullaniciadi varchar(20),
+sifre varchar(20)
+)
+
+-----------------------------------------------------------------------------------------------------------------------
+STORE PRODECURE 
+
+
+create procedure satisislemlerisatisyap(p1 int,p2 decimal (5,2),p4 text,p5 int,p6 decimal(9,4),p7 int,p8 date,p9 decimal(7,2))
+language plpgsql
+as
+$$
+BEGIN
+insert into satilanakaryakit(akaryakitturu,indirim,plaka,pompano,satilanlitre,satisyapan,tarih,toplamtutar)
+values(p1,p2,p4,p5,p6,p7,p8,p9);
+end;
+$$;
+
+----------------------------------------------------------------------------------------------------------------------
+
+create procedure musteriekleme(p1 text,p2 Varchar(20),p3 Varchar(20),p4 text,p5 int,p6 text)
+language plpgsql
+as
+$$
+BEGIN
+insert into musteriler(tcno,ad,soyad,telno,pozisyon,plaka)
+values(p1,p2,p3,p4,p5,p6);
+end;
+$$;
+
+---------------------------------------------------------------------------------------------------------------------
+
+create procedure personelekleme(p1 text,p2 Varchar(20),p3 Varchar(20),p4 text,p5 int,p6 int,p7 int,p8 date)
+language plpgsql
+as
+$$
+BEGIN
+insert into personeller(tcno,ad,soyad,telno,pozisyon,maas,personelid,dogumtarihi)
+values(p1,p2,p3,p4,p5,p6,p7,p8);
+end;
+$$;
+
+---------------------------------------------------------------------------------------------------------------------
+
+create procedure akaryakitekleme(p1 int,p2 Varchar(10),p3 decimal(5,2))
+language plpgsql
+as
+$$
+BEGIN
+insert into akaryakitlar(akaryakitid,akaryakittur,litrefiyati)
+values(p1,p2,p3);
+end;
+$$;
+
+-----------------------------------------------------------------------------------------------------------------------
+create procedure yakitseviyesigetir()
+language plpgsql
+as
+$$
+BEGIN
+select akaryakittur,tankhacim from akaryakitlar as a inner join tanklar as t 
+on a.akaryakitid= t.tanktakiurun;
+end;
+$$;
+
+-----------------------------------------------------------------------------------------------------------------------
+SORGULAR
+
+---Üye Müşteriler İçin İndirim Yüzdesini Getiren Sorgu---
+
+select indirimyuzdesi from pozisyonmusteri where pozisyonid=(select pozisyon from musteriler where plaka='01dnz21');
+
+------------------------------------------------------------------------------------------------------------------------
+
+update tanklar set tankhacim=tankhacim-'" + textBoxLitre.Text + "' where tanktakiurun='" + comboBoxAkaryakit.SelectedValue + "'
+
+-------------------------------------------------------------------------------------------------------------------------
+GÜN SONU İŞLEMLERİ
+
+---Günlük Eleman Kar için Fonksiyon---
+
+create or replace function kargetir()
+returns table
+(adsutun varchar(20),
+ karsutun double precision)
+language plpgsql
+as $$
+BEGIN
+return query
+select p.ad,sum(satilanlitre*(a.litrefiyati-t.gelisfiyati)) as kar
+from satilanakaryakit as s 
+inner join personeller as p 
+on p.personelid=s.satisyapan
+inner join akaryakitlar as a 
+on s.akaryakitturu=a.akaryakitid
+inner join tanklar as t
+on t.tanktakiurun=a.akaryakitid
+group by p.personelid,s.tarih
+having s.tarih=current_date;
+end;
+$$;
+select * from kargetir()
+
+
+---Günlük Toplam Satılan Akaryakıt Miktarını Gösteren Fonksiyon---
+
+create or replace function akaryakitgetir()
+returns table
+(akaryakittipi varchar(10),
+ tlitre numeric)
+language plpgsql
+as $$
+BEGIN
+return query
+select akaryakittur, sum(satilanlitre) as litre 
+from akaryakitlar as a inner join satilanakaryakit as s 
+on a.akaryakitid = s.akaryakitturu 
+group by a.akaryakitid,s.tarih 
+having s.tarih = current_date;
+end;
+$$;
+select * from akaryakitgetir()
+
+
+---Kar ve Ciro Getiren Fonksiyon---
+
+create or replace function gunlukcirogetir()
+returns table
+(ciro numeric)
+language plpgsql
+as $$
+BEGIN
+return query
+select sum(toplamtutar) as ciro
+from satilanakaryakit where tarih=current_date
+group by tarih;
+end;
+$$;
+select * from gunlukcirogetir()
+
+
+create or replace function gunlukkargetir()
+returns table
+(kar double PRECISION)
+language plpgsql
+as $$
+BEGIN
+return query
+select sum(satilanlitre*(a.litrefiyati-t.gelisfiyati)) as kar
+from satilanakaryakit as s 
+inner join akaryakitlar as a 
+on s.akaryakitturu=a.akaryakitid
+inner join tanklar as t
+on t.tanktakiurun=a.akaryakitid
+group by s.tarih
+having s.tarih=current_date;
+end;
+$$;
+select * from gunlukkargetir()
+
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+DOSYA İŞLEMLERİ
+
+---Toplam Veriler İçin View---
+
+create view toplamdosya
+as
+select  ad,sum(satilanlitre) as sattigilitre,sum(satilanlitre*(a.litrefiyati-t.gelisfiyati)) as ettigikar,sum(s.indirim) as indirimlisatis,maas as gider,
+sum((s.satilanlitre*(a.litrefiyati-t.gelisfiyati)-s.indirim))-(maas) as netkar
+from satilanakaryakit as s 
+inner join akaryakitlar as a 
+on s.akaryakitturu=a.akaryakitid
+inner join tanklar as t
+on t.tanktakiurun=a.akaryakitid
+inner join personeller as p
+on p.personelid=s.satisyapan
+group by p.personelid
+
+
+---Gunluk Veriler için View---
+
+create view gunlukdosya
+as
+select  ad,sum(satilanlitre) as sattigilitre,sum(s.satilanlitre*(a.litrefiyati-t.gelisfiyati)-s.indirim) as ettigikar,maas/30 as gider,
+sum((s.satilanlitre*(a.litrefiyati-t.gelisfiyati)-s.indirim))-(maas/30) as netkar
+from satilanakaryakit as s 
+inner join akaryakitlar as a 
+on s.akaryakitturu=a.akaryakitid
+inner join tanklar as t
+on t.tanktakiurun=a.akaryakitid
+inner join personeller as p
+on p.personelid=s.satisyapan
+group by p.personelid,s.tarih
+having s.tarih=current_date;
+
+
+-------------------------------------------------------------------------------------------------------------------------------------
+İSTATİSTİKLER
+
+
+---Yakıt Kar için Fonksiyon---
+
+create or replace function yakitkaristatistik()
+returns table
+(   akaryakit varchar(10),
+	kar double PRECISION)
+language plpgsql
+as $$
+BEGIN
+return query
+select akaryakittur,sum(satilanlitre*(a.litrefiyati-t.gelisfiyati))
+from satilanakaryakit as s 
+inner join akaryakitlar as a 
+on s.akaryakitturu=a.akaryakitid
+inner join tanklar as t
+on t.tanktakiurun=a.akaryakitid
+group by a.akaryakitid;
+end;
+$$;
+
+
+---Eleman Kar İçin Fonksiyon---
+
+create or replace function elemankaristatistik()
+returns table
+(   adi varchar(20),
+	kar double PRECISION)
+language plpgsql
+as $$
+BEGIN
+return query
+select ad,sum(satilanlitre*(a.litrefiyati-t.gelisfiyati))
+from satilanakaryakit as s 
+inner join akaryakitlar as a 
+on s.akaryakitturu=a.akaryakitid
+inner join tanklar as t
+on t.tanktakiurun=a.akaryakitid
+inner join personeller as p
+on p.personelid=s.satisyapan
+group by p.ad;
+end;
+$$;
+
+select * from elemankaristatistik()
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+---Pozisyon Güncelleme Triggeri---
+
+create view pozisyonguncelleview
+as
+select pozisyon,personelid from personeller where personelid in (SELECT satisyapan
+FROM satilanakaryakit
+GROUP BY satisyapan
+HAVING SUM(satilanlitre) > 10000) and pozisyon=4;
+
+
+
+CREATE OR REPLACE FUNCTION pozisyonguncelle()
+RETURNS TRIGGER AS $$
+declare
+personel int;
+pozisyonn int;
+indexsayisi int;
+BEGIN
+indexsayisi:=(select count(pozisyon) from personeller where personelid in (SELECT satisyapan
+FROM satilanakaryakit
+GROUP BY satisyapan
+HAVING SUM(satilanlitre) > 10000) and pozisyon=4);
+ 
+loop
+exit when indexsayisi=0;
+
+personel:=(select personelid from pozisyonguncelleview order by personelid limit 1);
+
+pozisyonn:=( select pozisyon from pozisyonguncelleview order by personelid limit 1); 
+
+UPDATE personeller
+SET pozisyon = pozisyon - 1 where personelid= (personel);
+
+
+indexsayisi=indexsayisi - 1;
+
+
+end loop;
+
+    RETURN NEW;
+END;
+$$ LANGUAGE plpgsql;
+
+CREATE TRIGGER pozisyonguncelletrigger
+AFTER INSERT ON satilanakaryakit
+FOR EACH ROW
+EXECUTE PROCEDURE pozisyonguncelle();
+
+-------------------------------------------------------------------------------------------------------------------------
+GİRİŞ
+
+create or replace function yoneticigiris()
+returns table
+( kullaniciad varchar(20),sifree varchar(20),yoneticiid int )
+language plpgsql
+as $$
+BEGIN
+return query
+select kullaniciadi,sifre,personelid from personeller as p inner join pozisyonpersonel as po 
+on p.pozisyon=po.pozisyonid
+inner join kullanicilar as k
+on k.kullaniciid=p.personelid
+group by p.personelid,po.pozisyontipi,k.kullaniciadi,k.sifre
+having pozisyontipi='müdür';
+end;
+$$;
+
+
+create or replace function kullanicigiris()
+returns table
+(kullaniciad varchar(20),sifree varchar(20), kullaniciid int )
+language plpgsql
+as $$
+
+BEGIN
+return query
+select kullaniciadi,sifre,personelid from personeller as p inner join pozisyonpersonel as po 
+on p.pozisyon=po.pozisyonid
+inner join kullanicilar as k
+on k.kullaniciid=p.personelid
+group by p.personelid,po.pozisyontipi,k.kullaniciadi,k.sifre
+having pozisyontipi='kasiyer';
+end;
+$$;
+
+
+

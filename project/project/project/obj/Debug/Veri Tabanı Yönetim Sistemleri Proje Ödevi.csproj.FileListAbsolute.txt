@@ -1,0 +1,167 @@
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.exe.config
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.exe
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.pdb
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.csproj.AssemblyReference.cache
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Properties.Resources.resources
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.csproj.GenerateResource.cache
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.exe
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.pdb
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Npgsql.dll
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Buffers.dll
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Memory.dll
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Text.Json.dll
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Threading.Channels.dll
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.ValueTuple.dll
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Npgsql.xml
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Buffers.xml
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Memory.xml
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Text.Json.xml
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Threading.Channels.xml
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.ValueTuple.xml
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.AkaryakitIslemleri.resources
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Giris.resources
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.GunSonuIslemleri.resources
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Istatistikler.resources
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.AnaSayfa.resources
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.MusteriIslemleri.resources
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.PersonelIslemleri.resources
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.SatisIslemleri.resources
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.TankaYakitEkleme.resources
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.TankIslemleri.resources
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.YakitSeviyesi.resources
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.csproj.CopyComplete
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Pompaislemleri.resources
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Pozisyonislemleri.resources
+C:\Users\eyupd\Desktop\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Dosyaislemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.exe.config
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.exe
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.pdb
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Npgsql.dll
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Buffers.dll
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Memory.dll
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Text.Json.dll
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Threading.Channels.dll
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.ValueTuple.dll
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Npgsql.xml
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Buffers.xml
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Memory.xml
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Text.Json.xml
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Threading.Channels.xml
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.ValueTuple.xml
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.csproj.AssemblyReference.cache
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.AkaryakitIslemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Dosyaislemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Giris.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.GunSonuIslemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Istatistikler.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.AnaSayfa.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.MusteriIslemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Pozisyonislemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.PersonelIslemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Properties.Resources.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.SatisIslemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Pompaislemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.TankaYakitEkleme.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.TankIslemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.YakitSeviyesi.resources
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.csproj.GenerateResource.cache
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.csproj.CopyComplete
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.exe
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.pdb
+C:\Users\eyupd\Desktop\Dersler\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Admin.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.exe.config
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.exe
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.pdb
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Npgsql.dll
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Buffers.dll
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Collections.Immutable.dll
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Memory.dll
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Text.Json.dll
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Threading.Channels.dll
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.ValueTuple.dll
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\Npgsql.xml
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Buffers.xml
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Collections.Immutable.xml
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Memory.xml
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Text.Json.xml
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Threading.Channels.xml
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\bin\Debug\System.ValueTuple.xml
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.csproj.AssemblyReference.cache
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.csproj.SuggestedBindingRedirects.cache
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Admin.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.AkaryakitIslemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Dosyaislemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Giris.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.GunSonuIslemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Istatistikler.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.AnaSayfa.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.MusteriIslemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Pozisyonislemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.PersonelIslemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Properties.Resources.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.SatisIslemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.Pompaislemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.TankaYakitEkleme.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.TankIslemleri.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri_Tabanı_Yönetim_Sistemleri_Proje_Ödevi.YakitSeviyesi.resources
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.csproj.GenerateResource.cache
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.csproj.CoreCompileInputs.cache
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.csproj.CopyComplete
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.exe
+C:\Users\eyupd\Desktop\Dersler\Veritabanı Yönetim Sistemleri\Proje\Proje\Veri Tabanı Yönetim Sistemleri Proje Ödevi\Veri Tabanı Yönetim Sistemleri Proje Ödevi\obj\Debug\Veri Tabanı Yönetim Sistemleri Proje Ödevi.pdb
